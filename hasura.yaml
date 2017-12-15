@@ -1,0 +1,5 @@
+description: Static site running on Hasura with Jekyll
+keywords: hello-world, getting-started
+media: {}
+name: jekyll-hello-world
+platformVersion: v0.15.8
